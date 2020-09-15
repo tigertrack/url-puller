@@ -1,7 +1,7 @@
 # TODOS
 write all the todos & ideas here. keep in mind to not add more todos / ideas when there's more than 10 item left unchecked.
 
-- [ ] The user can show, create, update, or delete a section.
+- [x] The user can show, create, update, or delete a section.
 - [ ] The user can create, update, or delete a task.
 - [ ] The user can show tasks of a section.
 - [ ] The user can change the state of the task from todo to done or from done to todo.
